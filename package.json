@@ -1,0 +1,16 @@
+{
+    "name": "TrapDodge",
+    "version": "0.0.1",
+    "description": "Laser dodge type multiplayer game",
+    "dependencies": {
+        "express": "^4.15.2",
+        "socket.io": "^3.0.4"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "main": "index.js",
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
