@@ -14,5 +14,5 @@
 <p>In order to play Turtle dodge you can either play it <a href="https://turtledodge.herokuapp.com/">online</a> or host it locally in your computer with the instructions below. Whichever option you decide for you will still need to get a second player to start the game (if you wanna play solo you can open two webpages at let the other one die).  
 <h2 align="center" id="insta">Installation</h2>
 <p>If you want to install TurtleDodge in your computer so you don't have to connect to heroku or just wanna play locally with some people you need to clone this repo, install <a href="https://nodejs.org/en/download/">Node</a> and run (in the repo directory) the command: "node index.js"</p>
-<h2> align="center" id="made">Made With</h2>
+<h2 align="center" id="made">Made With</h2>
 <p>This game was done using <a href="http://phaser.io/">Phaser 3</a> and <a href="https://socket.io/">Socket.io</a></p>
