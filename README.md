@@ -10,6 +10,7 @@
 <br>
 <h2 align="center" id="info">What's the game about</h2>
 <p>In Turtle Dodge you an another player become a turtle that are chilling in the sea when suddenly a lot of trash starts coming your way. Dodge plastic straws, bags and fishing nets as you try to survive for as long as possible (probably not more than 1 minute). </p>
+<img src="game.png" alt="In game capture">
 <h2 align="center" id="how">How to play</h2>
 <p>In order to play Turtle dodge you can either play it <a href="https://turtledodge.herokuapp.com/">online</a> or host it locally in your computer with the instructions below. Whichever option you decide for you will still need to get a second player to start the game (if you wanna play solo you can open two webpages at let the other one die).  
 <h2 align="center" id="insta">Installation</h2>
